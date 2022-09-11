@@ -17,30 +17,9 @@
 
 [Таблица]:https://github.com/b00mmer/Lab8/blob/main/Address_table.JPG "Таблица адресации"
 
-3. [Сетевые параметры маршрутизатора R1](https://github.com/b00mmer/Lab6/blob/main/R1_running-config_4.txt)
-4. [Сетевые параметры маршрутизатора S1](https://github.com/b00mmer/Lab6/blob/main/S1_running-config_4.txt)
-5. [Сетевые параметры маршрутизатора S2](https://github.com/b00mmer/Lab6/blob/main/S2_running-config_4.txt)
+3. [Сетевые параметры маршрутизатора ASA](https://github.com/b00mmer/Lab6/blob/main/R1_running-config_4.txt)
 
 
-Проверка связи:
-
-Ping с PC-A на R1
-
-![alt-текст][PING_A]
-
-[PING_A]:https://github.com/b00mmer/Lab6/blob/main/Ping_PC_A.JPG "Ping_A"
-
-Ping с PC-B на R1
-
-![alt-текст][PING_B]
-
-[PING_B]:https://github.com/b00mmer/Lab6/blob/main/Ping_PC_A.JPG "Ping_B"
-
-Ping с PC-A на PC-B
-
-![alt-текст][PING_AB]
-
-[PING_AB]:https://github.com/b00mmer/Lab6/blob/main/Ping_PC_A_B.JPG "Ping_AB"
 
 
 
@@ -54,26 +33,7 @@ Ping с PC-A на PC-B
  [Сетевые параметры маршрутизатора S2](https://github.com/b00mmer/Lab6/blob/main/S2_running-config_p2.txt)
  
  
-  
-  ## Часть 3 Защита от STP-атак
 
-[Файл образа части 3](https://github.com/b00mmer/Lab6/blob/main/Lab6_3.pkt)
-
-
-  ## Часть 4: Настройка безопасности портов и отключение неиспользуемых портов
-
-[Файл образа части 4](https://github.com/b00mmer/Lab6/blob/main/Lab6_4.pkt)
-
-[Сетевые параметры маршрутизатора S1](https://github.com/b00mmer/Lab6/blob/main/S1_running-config_4.txt)
- 
- [Сетевые параметры маршрутизатора S2](https://github.com/b00mmer/Lab6/blob/main/S2_running-config_4.txt)
- 
-Шаг3 Проверка безопасности портов на S1 F0/5
-
-
-![alt-текст][S43]
-
-[S43]:https://github.com/b00mmer/Lab6/blob/main/St4_3.JPG "S4_3"
 
 Ping PC-A
 
