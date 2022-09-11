@@ -19,14 +19,14 @@
 
 3. [Сетевые параметры маршрутизатора ASA](https://github.com/b00mmer/Lab8/blob/main/ASA_running-config%201.txt)
 
-
+4. [Файл образа  ](https://github.com/b00mmer/Lab6/blob/main/Lab6_2.pkt)
 
 
 
 
  ## Часть 2 Настройка безопасных магистральных портов
 
-[Файл образа части 2](https://github.com/b00mmer/Lab6/blob/main/Lab6_2.pkt)
+
 
 [Сетевые параметры маршрутизатора S1](https://github.com/b00mmer/Lab6/blob/main/S1_running-config_p2.txt)
  
