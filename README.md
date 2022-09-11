@@ -9,7 +9,7 @@
 
 ![alt-текст][Топология]
 
-[Топология]:https://github.com/b00mmer/Lab6/blob/main/Topology.JPG "Топология"
+[Топология]:https://github.com/b00mmer/Lab8/blob/main/Topology.JPG "Топология"
 
 2. Таблица адресации
 
