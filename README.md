@@ -17,7 +17,7 @@
 
 [Таблица]:https://github.com/b00mmer/Lab8/blob/main/Address_table.JPG "Таблица адресации"
 
-3. [Сетевые параметры маршрутизатора ASA](https://github.com/b00mmer/Lab6/blob/main/R1_running-config_4.txt)
+3. [Сетевые параметры маршрутизатора ASA](https://github.com/b00mmer/Lab8/blob/main/ASA_running-config%201.txt)
 
 
 
