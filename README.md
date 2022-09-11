@@ -22,20 +22,11 @@
 4. [Файл образа  ](https://github.com/b00mmer/Lab8/blob/main/Lab8_2.pkt)
 
 
-
-
- ## Часть 2 Настройка безопасных магистральных портов
-
-
-Ping PC-A
+ ## Шаг 6: Настройте доступ ASDM к ASA.
 
 ![alt-текст][S43b]
 
 [S43b]:https://github.com/b00mmer/Lab6/blob/main/St4_3b.JPG "S4_3b"
 
 
-Статус порта после смены MAC адреса на R1 G 0/0/1
 
-![alt-текст][S43e]
-
-[S43e]:https://github.com/b00mmer/Lab6/blob/main/St4_3e.JPG "S4_3e"
